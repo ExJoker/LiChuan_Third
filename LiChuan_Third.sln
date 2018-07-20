@@ -1,12 +1,24 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiChuan_Third", "LiChuan_Third.csproj", "{04F9B9DF-7A24-4CD6-AE6D-C43868513429}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiChuan_Third.Editor", "LiChuan_Third.Editor.csproj", "{3240B2BB-5F3B-1542-E538-D98F9FFFA8FC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04F9B9DF-7A24-4CD6-AE6D-C43868513429}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04F9B9DF-7A24-4CD6-AE6D-C43868513429}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04F9B9DF-7A24-4CD6-AE6D-C43868513429}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04F9B9DF-7A24-4CD6-AE6D-C43868513429}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3240B2BB-5F3B-1542-E538-D98F9FFFA8FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3240B2BB-5F3B-1542-E538-D98F9FFFA8FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3240B2BB-5F3B-1542-E538-D98F9FFFA8FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3240B2BB-5F3B-1542-E538-D98F9FFFA8FC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
